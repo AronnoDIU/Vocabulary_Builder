@@ -5,7 +5,7 @@ import java.net.URL;
 
 public class VocabularyBuilder {
     // API Key for Words API (https://rapidapi.com/dpventures/api/wordsapi)
-    private static final String API_KEY = "b9e00ea0-93b0-11ee-b0f6-9b14ee3afab3";
+    private static final String API_KEY = "76365d9909mshc9d2888c9e1fb66p171b69jsn3c0349053687";
 
     public static void main(String[] args) {
         try {
